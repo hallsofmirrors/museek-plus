@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 from museek import messages, driver
 import socket
 import os, sys, select, urllib

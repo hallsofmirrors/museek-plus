@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/python
 import os
 import sys, string
 print "Copy theme icons from images/theme subdirectory to images/ directory before running this script."

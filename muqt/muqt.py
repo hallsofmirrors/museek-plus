@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/python
 import sys, os, ConfigParser, time
 from PyQt4 import QtCore, QtGui
 from PyQt4.QtCore import *
